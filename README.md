@@ -24,4 +24,4 @@ SCREENSHOTS:
 
 ![Second](https://cloud.githubusercontent.com/assets/3199539/5561295/bc80c2fc-8df3-11e4-8f5a-31c7aa72f824.png?raw=true "Second")
 
-![Third](https://cloud.githubusercontent.com/assets/3199539/5561295/bc80c2fc-8df3-11e4-8f5a-31c7aa72f824.png?raw=true "Third")
+![Third](https://cloud.githubusercontent.com/assets/3199539/5561298/1aa5f186-8df4-11e4-96a3-b75ba31661d5.png?raw=true "Third")
