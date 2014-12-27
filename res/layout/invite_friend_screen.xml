@@ -1,0 +1,46 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:facebook="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:scrollbars="none" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dip"
+            android:layout_marginTop="30dip"
+            android:gravity="center|top"
+            android:orientation="vertical"
+            android:paddingLeft="10dip"
+            android:paddingRight="10dip" >
+
+            <com.facebook.widget.LoginButton
+                android:id="@+id/btn_fb_login"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                facebook:confirm_logout="false"
+                facebook:fetch_user_info="true"
+                facebook:login_text="Log-In com facebook"
+                facebook:logout_text="Sair" />
+
+
+            <Button
+                android:id="@+id/btn_friends"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="mClick"
+                android:paddingLeft="2dip"
+                android:paddingRight="2dip"
+                android:singleLine="true"
+                android:visibility="gone"
+                android:text="Friend List" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>
