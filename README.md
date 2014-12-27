@@ -17,3 +17,7 @@ https://github.com/facebook/facebook-android-sdk
 6. now set your package name and first activity and then your hash key. click on save.
 7. now select Status & review tab and set yes on "Do you want to make this app and all its live features available to the general public?"
 8. now copy your app ID(from dashboard tab) into your project at string.xml file.
+
+SCREENSHOTS:
+
+![First](http://s16.postimg.org/mep8ckhc1/device_2014_12_27_180410.jpg?raw=true "First")
