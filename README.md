@@ -20,4 +20,8 @@ https://github.com/facebook/facebook-android-sdk
 
 SCREENSHOTS:
 
-![First](http://s16.postimg.org/mep8ckhc1/device_2014_12_27_180410.jpg?raw=true "First")
+![First](https://cloud.githubusercontent.com/assets/3199539/5561294/b8adfe4c-8df3-11e4-9966-f988a890c7e7.png?raw=true "First")
+
+![Second](https://cloud.githubusercontent.com/assets/3199539/5561295/bc80c2fc-8df3-11e4-8f5a-31c7aa72f824.png?raw=true "Second")
+
+![Third](https://cloud.githubusercontent.com/assets/3199539/5561295/bc80c2fc-8df3-11e4-8f5a-31c7aa72f824.png?raw=true "Third")
