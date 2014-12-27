@@ -1,4 +1,4 @@
-crushFTest
+FbFriendlist
 ==========
 
 Login with Facebook and get friend list which are used your app
