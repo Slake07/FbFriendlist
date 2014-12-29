@@ -11,7 +11,7 @@ https://github.com/facebook/facebook-android-sdk
 
 1. after importing above library, create new app in your facebook developer account. 
 2. set your app name first.
-3. choose gamecategory from drop down list and select any option from sub-category drop down list then click create App ID.
+3. choose game category from drop down list and select any option from sub-category drop down list then click create App ID.
 4. Now Select your app from top left side.
 5. go to setting tab of your app. and add platform(android).
 6. now set your package name and first activity and then your hash key. click on save.
